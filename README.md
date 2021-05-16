@@ -43,7 +43,7 @@
 #
 #
 # Downloads
- - [Pre compiled binary for x86-Win10 - cowin-prompter-0.1](https://github.com/lokeshbhatt/cowin-prompter/)
+ - [Pre compiled binary for x86-Win10 - cowin-prompter-0.1](https://github.com/lokeshbhatt/cowin-prompter/blob/main/cowin-prompter-0.1.exe)
  - [ cowin-prompter-0.1.py](To be uploaded shortly)
 #
 #
