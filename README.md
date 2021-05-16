@@ -1,7 +1,7 @@
 #
 # cowin-prompter
 ## Purpose: Prompts (display & beep) for vaccination slot availability for given criteria [state/district/pincode, age, feetype]
-### Developer: Lokesh Bhatt
+### Developer: [Lokesh Bhatt](https://www.linkedin.com/in/lokesh-bhatt-796a2ab/)
 ### (C) Copyright 2021 Lokesh Bhatt
 #### This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 ## Special thanks for [Dr. Bharat](https://www.linkedin.com/in/bharat-bhatt-33010748/) for his support & contributions.
@@ -39,12 +39,12 @@
 #
 #
 # How to run
-- [How to run cowin-prompter](
+- [How to run cowin-prompter video](
 #
 #
 # Downloads
- - [cowin-prompter-0.1 Pre compiled binary for x86-Win10](https://github.com/lokeshbhatt/cowin-prompter/)
- - Source code - To be uploaded shortly
+ - [Pre compiled binary for x86-Win10 - cowin-prompter-0.1](https://github.com/lokeshbhatt/cowin-prompter/)
+ - [ cowin-prompter-0.1.py](To be uploaded shortly)
 #
 #
-### Contacts: Lokesh Bhatt | cowinprompter@gmail.com | https://github.com/lokeshbhatt/
+### Contacts:  [Lokesh Bhatt](https://www.linkedin.com/in/lokesh-bhatt-796a2ab/) | cowinprompter@gmail.com | https://github.com/lokeshbhatt/
