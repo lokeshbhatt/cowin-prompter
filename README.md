@@ -56,8 +56,7 @@ Early observing available slots is key to success and here comes cowin-prompter 
 # How to run
 1. Download relevant pre-compiled file (.exe) to your laptop / PC
 2. Ensure to provide an exception to your OS and antivirus policy to refrain them from deleting .exe file
-3. Double click to run
-4. Follow the menu choices
+3. Double click to run and follow the menu choices
 #
 #
 # In case of error
