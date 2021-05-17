@@ -48,12 +48,23 @@ Early observing available slots is key to success and here comes cowin-prompter 
 # Pre-requisites
 - Platform: x86
 - OS: Windows10
+- Internnet connectivity
 - User Permission: To write/create files into current directory & use laptop speaker  
 **NOTE:** Efforts are on for a platform agnostic version
 #
 #
 # How to run
-- [How to run cowin-prompter video](
+1. Download relevant pre-compiled file (.exe) to your laptop / PC
+2. Ensure to provide an exception to your OS and antivirus policy to refrain them from deleting .exe file
+3. Double click to run
+4. Follow the menu choices
+#
+#
+# In case of error
+- Open a command prompt
+- Go to directory where pre-compiled binary is downloaded
+- Execute from command line
+- Capture and share error(s)
 #
 #
 # Downloads
