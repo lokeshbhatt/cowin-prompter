@@ -1,9 +1,18 @@
 #
 # cowin-prompter
-## Introduction: In order to secure a vaccination slot, one need to locate an available slot first, which is a game of speed. cowin-prompter runs on you laptop, talks directly to cowin data source via REST APIs and alerts on finding slot matching your criteria [state/district/pincode, age, feetype]
+#
+#
+## Introduction
+### In order to secure a vaccination slot, one need to locate an available slot first, which is a no less than a game of speed.
+###    - cowin-prompter runs on you laptop (no third parties, i.e., no contacts sharing)
+###    - Talks directly to cowin data source via REST APIs (no intermediary hopes, i.e., faster responses)
+###    - Alert for slots of multiple matching criterias (state/district/pincode, age, feetype) (no need to interact interactively) 
+#
+#
 ### Developer: [Lokesh Bhatt (Technology Architect & Python Enthusiast) ](https://www.linkedin.com/in/lokesh-bhatt-796a2ab/)
 ### (C) Copyright 2021 Lokesh Bhatt
 #### This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+#
 ## Special thanks for [Dr. Bharat Bhatt](https://www.linkedin.com/in/bharat-bhatt-33010748/) for his support & contributions.
 # 
 #
@@ -36,8 +45,8 @@ Early observing available slots is key to success and here comes cowin-prompter 
 # Pre-requisites
 - Platform: x86
 - OS: Windows10
-- User Permission: To write/create files into current directory & use laptop speaker
-- **NOTE:** Efforts are on for a platform agnostic version
+- User Permission: To write/create files into current directory & use laptop speaker  
+**NOTE:** Efforts are on for a platform agnostic version
 #
 #
 # How to run
@@ -46,7 +55,6 @@ Early observing available slots is key to success and here comes cowin-prompter 
 #
 # Downloads
  - [Pre compiled binary for x86-Win10 - cowin-prompter-0.1](https://github.com/lokeshbhatt/cowin-prompter/blob/main/cowin-prompter-0.1.exe)
- - [ cowin-prompter-0.1.py](To be uploaded shortly)
 #
 #
 ### Feedback / Query / Issues / Change requests
