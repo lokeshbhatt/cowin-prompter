@@ -39,7 +39,10 @@
 Early observing available slots is key to success and here comes cowin-prompter to your aid
 - cowin-prompter runs on your laptop/PC and lets you continously pull slots avalability from cowin without any manual intervention
 - Allows capability to define multiple selection criterias, i.e., more than one pincode & district
-- Uses sounds to attracts your attention for matching hits to your selection selection criterias
+- Uses sounds to attracts your attention for matching hits to your selection selection criterias  
+  
+![Alt text](https://github.com/lokeshbhatt/cowin-prompter/blob/main/cowin-prompter-0.1-working.JPG "cowin-prompter-Technical Framework")
+  
 #
 #
 # Pre-requisites
