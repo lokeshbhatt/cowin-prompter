@@ -69,7 +69,7 @@ Early observing available slots is key to success and here comes cowin-prompter 
 #
 # Downloads
  - [pre compiled binary for windows10](https://github.com/lokeshbhatt/cowin-prompter/blob/main/cowin-prompter-0.2-Win10.exe)
- - [pre-compiled binary for macOS]
+ - [pre-compiled binary for macOS](https://github.com/lokeshbhatt/cowin-prompter/blob/main/cowin-prompter-0.2-macOS)
 #
 #
 ### Feedback / Query / Issues / Change requests
